@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi I'm Maluns 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=Maluns&show_icons=true&count_private=true&hide=prs&theme=dark)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Maluns&show_icons=true&count_private=true&hide=prs&theme=material-palenight&hide_border=true"/>
+
+A lovely web developer based in China.
+- 🌱 Read more about my [Blog](https://www.imalun.com/)
+- 😄 Talk with me by [Email](mailto:384399021@qq.com)
+
+<!--![Maluns's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Maluns&show_icons=true&layout=compact&count_private=true&hide_border=true&langs_count=8&theme=material-palenight)
+-->
 
 <!--
 **MaLuns/Maluns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
