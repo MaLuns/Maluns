@@ -4,7 +4,7 @@
 
 A lovely web developer based in China.
 - 🌱 Read more about my [Blog](https://www.imalun.com/)
-- 😄 Talk with me by [Email](mailto:384399021@qq.com)
+- 😄 Talk with me by [Email](mailto:admin@imalun.com)
 
 <!--![Maluns's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Maluns&show_icons=true&layout=compact&count_private=true&hide_border=true&langs_count=8&theme=material-palenight)
 -->
