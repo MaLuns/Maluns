@@ -6,6 +6,10 @@ A lovely web developer based in China.
 - 🌱 Read more about my [Blog](https://www.imalun.com/)
 - 😄 Talk with me by [Email](mailto:admin@imalun.com)
 
+Welcome to visit.
+
+You are the <img src="https://count.getloli.com/get/@Maluns" alt="Maluns" style="width: 200px;vertical-align: middle;" /> person to arrive.
+
 <!--![Maluns's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Maluns&show_icons=true&layout=compact&count_private=true&hide_border=true&langs_count=8&theme=material-palenight)
 -->
 
