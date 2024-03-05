@@ -45,7 +45,7 @@ A lovely web developer based in China.
  
 Welcome to visit.
 
-<img src="https://count.getloli.com/get/@Maluns?theme=rule34" alt="Maluns" />
+<img src="https://counter.imalun.com/Maluns?theme=rule34" alt="Maluns" />
 
 
 <!--![Maluns's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Maluns&show_icons=true&layout=compact&count_private=true&hide_border=true&langs_count=8&theme=material-palenight)
